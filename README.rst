@@ -1,4 +1,5 @@
 This is the Specification Document for the CAN-FiX communication protocol.
+This is an experimental system, and is not suited for primary or backup flight/engine instrumentation or navigation. Use at your own risk.
 
 FIX is an acronym for Flight Information eXchange.  It is a set of protocol
 specifications for exchanging information between aircraft avionics and flight
